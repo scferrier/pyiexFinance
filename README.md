@@ -1,2 +1,5 @@
 # pyiexFinance
-API wrapper for IEX Cloud
+API wrapper for IEX Cloud. 
+This will have both sandbox and cloud capabilites. 
+
+
